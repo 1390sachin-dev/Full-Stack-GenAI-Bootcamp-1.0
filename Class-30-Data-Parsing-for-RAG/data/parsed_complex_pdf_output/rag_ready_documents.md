@@ -5,11 +5,11 @@
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 1,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_001.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_001.png"
 }
 ```
 
@@ -51,7 +51,7 @@ contract_group_id
 Need access-safe retrieval
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -61,11 +61,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 2,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_002.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_002.png"
 }
 ```
 
@@ -109,7 +109,7 @@ incidents?
 Caption: Ownership map showing how client admins, legal teams, audit teams, document storage, vector storage, and the RAG service interact.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -119,11 +119,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 3,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_003.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_003.png"
 }
 ```
 
@@ -202,7 +202,7 @@ Parsing difficulty increases when a document combines multiple layouts: paragrap
 parsers preserve structure; weak parsers flatten everything into a noisy text stream.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -212,11 +212,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 4,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_004.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_004.png"
 }
 ```
 
@@ -276,7 +276,7 @@ Parser note: clause numbering is important. Chunking should not remove or split 
 ask questions using clause numbers.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -286,11 +286,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 5,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_005.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_005.png"
 }
 ```
 
@@ -337,7 +337,7 @@ For RAG systems, simple tables are often converted into row-wise text chunks suc
 requests must be raised within 7 days; Owner: Customer Support.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -347,11 +347,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 6,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_006.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_006.png"
 }
 ```
 
@@ -419,7 +419,7 @@ Parser note: table footnotes should remain attached to the table. If the footnot
 become incomplete or misleading.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -429,11 +429,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 7,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_007.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_007.png"
 }
 ```
 
@@ -463,7 +463,7 @@ Normal PDF text extraction
 Description of the diagram
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -473,11 +473,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 8,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_008.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_008.png"
 }
 ```
 
@@ -517,7 +517,7 @@ Numbered sequence
 Order must be preserved
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -527,11 +527,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 9,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_009.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_009.png"
 }
 ```
 
@@ -565,7 +565,7 @@ Checked
 Boolean extraction required
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -575,11 +575,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 10,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_010.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_010.png"
 }
 ```
 
@@ -629,7 +629,7 @@ retriever may need chunks from the MSA and the Pricing Amendment together.
 Relationship metadata allows retrieval across related documents without mixing unrelated client data.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -639,11 +639,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 11,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_011.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_011.png"
 }
 ```
 
@@ -680,7 +680,7 @@ Wrong flow: retrieve from all clients and tell the model to ignore unauthorized 
 not be used as the access-control boundary.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -690,11 +690,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 12,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_012.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_012.png"
 }
 ```
 
@@ -724,7 +724,7 @@ For RAG, chart captions should be indexed. If chart values are critical, extract
 companion table.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -734,11 +734,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 13,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_013.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_013.png"
 }
 ```
 
@@ -788,7 +788,7 @@ Evaluation should include adversarial questions, unrelated questions, and questi
 related documents.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -798,11 +798,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 14,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_014.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_014.png"
 }
 ```
 
@@ -843,7 +843,7 @@ Deduplicate using source and hash
 Bad parsing creates bad chunks. Bad chunks create bad retrieval. Bad retrieval creates bad answers.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -853,11 +853,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 15,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_015.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_015.png"
 }
 ```
 
@@ -902,7 +902,7 @@ quality is the foundation. If extraction is weak, no embedding model or LLM can 
 End of synthetic 15-page parsing test document.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -912,11 +912,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 16,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_016.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_016.png"
 }
 ```
 
@@ -934,7 +934,7 @@ the table.
 Table 1: Added as complex parsing appendix for table extraction, OCR fallback, and layout-aware RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -944,11 +944,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 17,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_017.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_017.png"
 }
 ```
 
@@ -966,7 +966,7 @@ the table.
 Table 2: Added as complex parsing appendix for table extraction, OCR fallback, and layout-aware RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -976,11 +976,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 18,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_018.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_018.png"
 }
 ```
 
@@ -998,7 +998,7 @@ the table.
 Table 3: Added as complex parsing appendix for table extraction, OCR fallback, and layout-aware RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1008,11 +1008,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 19,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_019.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_019.png"
 }
 ```
 
@@ -1030,7 +1030,7 @@ parsing may be required.
 Added at the end for complex image parsing, OCR fallback, layout-aware extraction, and multimodal RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1040,11 +1040,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 20,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_020.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_020.png"
 }
 ```
 
@@ -1061,7 +1061,7 @@ Parsing challenge: extract chart title, bar values, legend labels, and table val
 Added at the end for complex image parsing, OCR fallback, layout-aware extraction, and multimodal RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1071,11 +1071,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 21,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_021.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_021.png"
 }
 ```
 
@@ -1094,7 +1094,7 @@ LLM gateway.
 Added at the end for complex image parsing, OCR fallback, layout-aware extraction, and multimodal RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1104,11 +1104,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 22,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_022.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_022.png"
 }
 ```
 
@@ -1127,7 +1127,7 @@ unless OCR is enabled.
 Added at the end for complex image parsing, OCR fallback, layout-aware extraction, and multimodal RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1137,11 +1137,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 23,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_023.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_023.png"
 }
 ```
 
@@ -1160,7 +1160,7 @@ scanned image.
 Added at the end for complex image parsing, OCR fallback, layout-aware extraction, and multimodal RAG testing.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1170,11 +1170,11 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 24,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_024.png"
+  "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_024.png"
 }
 ```
 
@@ -1212,7 +1212,7 @@ visual content matters.
 Added at the end for complex image parsing, multimodal RAG testing, caption grounding, and visual-content extraction checks.
 
 OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1222,7 +1222,7 @@ OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 1,
   "content_type": "table",
   "table_index": 1
@@ -1253,7 +1253,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 2,
   "content_type": "table",
   "table_index": 1
@@ -1281,7 +1281,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 3,
   "content_type": "table",
   "table_index": 1
@@ -1318,7 +1318,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 4,
   "content_type": "table",
   "table_index": 1
@@ -1347,7 +1347,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 5,
   "content_type": "table",
   "table_index": 1
@@ -1378,7 +1378,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 6,
   "content_type": "table",
   "table_index": 1
@@ -1411,7 +1411,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 7,
   "content_type": "table",
   "table_index": 1
@@ -1437,7 +1437,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 8,
   "content_type": "table",
   "table_index": 1
@@ -1463,7 +1463,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 9,
   "content_type": "table",
   "table_index": 1
@@ -1492,7 +1492,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 10,
   "content_type": "table",
   "table_index": 1
@@ -1521,7 +1521,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 11,
   "content_type": "table",
   "table_index": 1
@@ -1549,7 +1549,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 12,
   "content_type": "table",
   "table_index": 1
@@ -1576,7 +1576,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 13,
   "content_type": "table",
   "table_index": 1
@@ -1606,7 +1606,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 14,
   "content_type": "table",
   "table_index": 1
@@ -1637,7 +1637,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 15,
   "content_type": "table",
   "table_index": 1
@@ -1670,7 +1670,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 24,
   "content_type": "table",
   "table_index": 1
@@ -1701,11 +1701,11 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 2,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_002_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_002_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1713,10 +1713,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 2
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_002_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_002_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1726,11 +1726,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 7,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_007_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_007_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1738,10 +1738,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 7
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_007_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_007_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1751,11 +1751,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 9,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_009_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_009_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1763,10 +1763,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 9
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_009_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_009_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1776,11 +1776,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 12,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_012_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_012_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1788,10 +1788,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 12
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_012_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_012_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1801,11 +1801,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 16,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_016_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_016_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1813,10 +1813,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 16
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_016_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_016_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1826,11 +1826,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 17,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_017_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_017_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1838,10 +1838,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 17
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_017_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_017_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1851,11 +1851,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 18,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_018_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_018_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1863,10 +1863,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 18
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_018_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_018_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1876,11 +1876,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 19,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_019_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_019_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1888,10 +1888,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 19
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_019_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_019_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1901,11 +1901,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 20,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_020_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_020_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1913,10 +1913,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 20
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_020_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_020_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1926,11 +1926,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 21,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_021_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_021_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1938,10 +1938,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 21
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_021_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_021_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1951,11 +1951,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 22,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_022_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_022_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1963,10 +1963,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 22
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_022_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_022_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -1976,11 +1976,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 23,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_023_image_1.png",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_023_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -1988,10 +1988,10 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 23
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_023_image_1.png
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_023_image_1.png
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---
 
@@ -2001,11 +2001,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
+  "source": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\complex_rag_parsing_sample_with_sunny_image.pdf",
   "page_number": 24,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_024_image_1.jpeg",
+  "image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\extracted_images\\page_024_image_1.jpeg",
   "image_ext": "jpeg"
 }
 ```
@@ -2013,9 +2013,9 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 24
 IMAGE INDEX: 1
-IMAGE PATH: D:\complete_content_new\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_024_image_1.jpeg
+IMAGE PATH: C:\GEN AI\Full-Stack-GenAI-Bootcamp-1.0\Class-30-Data-Parsing-for-RAG\data\parsed_complex_pdf_output\extracted_images\page_024_image_1.jpeg
 
 IMAGE OCR TEXT:
-[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]
+[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']
 
 ---

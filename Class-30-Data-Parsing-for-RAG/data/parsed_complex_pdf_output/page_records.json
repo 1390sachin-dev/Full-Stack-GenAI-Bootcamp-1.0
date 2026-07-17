@@ -5,8 +5,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_001.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_001.png"
   },
   {
     "page_number": 2,
@@ -14,8 +14,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_002.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_002.png"
   },
   {
     "page_number": 3,
@@ -23,8 +23,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_003.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_003.png"
   },
   {
     "page_number": 4,
@@ -32,8 +32,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_004.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_004.png"
   },
   {
     "page_number": 5,
@@ -41,8 +41,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_005.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_005.png"
   },
   {
     "page_number": 6,
@@ -50,8 +50,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_006.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_006.png"
   },
   {
     "page_number": 7,
@@ -59,8 +59,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_007.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_007.png"
   },
   {
     "page_number": 8,
@@ -68,8 +68,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_008.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_008.png"
   },
   {
     "page_number": 9,
@@ -77,8 +77,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_009.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_009.png"
   },
   {
     "page_number": 10,
@@ -86,8 +86,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_010.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_010.png"
   },
   {
     "page_number": 11,
@@ -95,8 +95,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_011.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_011.png"
   },
   {
     "page_number": 12,
@@ -104,8 +104,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_012.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_012.png"
   },
   {
     "page_number": 13,
@@ -113,8 +113,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_013.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_013.png"
   },
   {
     "page_number": 14,
@@ -122,8 +122,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_014.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_014.png"
   },
   {
     "page_number": 15,
@@ -131,8 +131,8 @@
     "image_count": 0,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_015.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_015.png"
   },
   {
     "page_number": 16,
@@ -140,8 +140,8 @@
     "image_count": 1,
     "width": 612.0,
     "height": 792.0,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_016.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_016.png"
   },
   {
     "page_number": 17,
@@ -149,8 +149,8 @@
     "image_count": 1,
     "width": 612.0,
     "height": 792.0,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_017.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_017.png"
   },
   {
     "page_number": 18,
@@ -158,8 +158,8 @@
     "image_count": 1,
     "width": 612.0,
     "height": 792.0,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_018.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_018.png"
   },
   {
     "page_number": 19,
@@ -167,8 +167,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_019.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_019.png"
   },
   {
     "page_number": 20,
@@ -176,8 +176,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_020.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_020.png"
   },
   {
     "page_number": 21,
@@ -185,8 +185,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_021.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_021.png"
   },
   {
     "page_number": 22,
@@ -194,8 +194,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_022.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_022.png"
   },
   {
     "page_number": 23,
@@ -203,8 +203,8 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_023.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_023.png"
   },
   {
     "page_number": 24,
@@ -212,7 +212,7 @@
     "image_count": 1,
     "width": 595.2755737304688,
     "height": 841.8897705078125,
-    "ocr_text": "[OCR_SKIPPED_OR_FAILED: tesseract is not installed or it's not in your PATH. See README file for more information.]",
-    "page_image_path": "D:\\complete_content_new\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_024.png"
+    "ocr_text": "[OCR_SKIPPED_OR_FAILED: No module named 'pytesseract']",
+    "page_image_path": "C:\\GEN AI\\Full-Stack-GenAI-Bootcamp-1.0\\Class-30-Data-Parsing-for-RAG\\data\\parsed_complex_pdf_output\\page_images\\page_024.png"
   }
 ]
